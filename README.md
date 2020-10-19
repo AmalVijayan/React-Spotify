@@ -1,3 +1,8 @@
+# React-Spotify
+Spotify clone using React.js :: https://youtu.be/pnkuI8KXW_8?list=LLJjKMgZdkL01X8Z6h-fWPPQ
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
